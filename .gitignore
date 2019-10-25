@@ -1,0 +1,7 @@
+node_modules/
+output/
+*.epub
+*.mobi
+*.class
+
+package-lock.json
